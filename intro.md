@@ -1,11 +1,14 @@
-# Welcome to your Jupyter Book
+# Welkom bij het keuzethema's voorbeeld-boek
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+:::{warning}
+Dit voorbeeld is verre van compleet, en nog niet geschikt voor hergebruik.
+Binnenkort meer.
+:::
 
-Check out the content pages bundled with this sample book to see more.
+Dit is een voorbeeld van een Jupyter Book in de structuur zoals dat gebruikt wordt bij het keuzethema's lesmateriaal.
+Dit voorbeeld is bedoeld als template, als uitgangspunt voor je eigen materiaal.
+
+Zie voor een beschrijving van de manier waarop je dit kunt aanpassen: (P.M.)
 
 ```{tableofcontents}
 ```
